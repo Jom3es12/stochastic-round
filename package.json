@@ -1,0 +1,13 @@
+{
+  "name": "stochastic-round",
+  "version": "1.0.0",
+  "description": "Round using stochastic rounding",
+  "main": "stochasticRound.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jom3es12",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
