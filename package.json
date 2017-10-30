@@ -1,6 +1,6 @@
 {
     "name": "stochastic-round",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "Round using stochastic rounding",
     "main": "./lib/index.js",
     "scripts": {
